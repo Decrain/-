@@ -67,8 +67,8 @@ def file_read(file_dir):
     print('finished!2')
 
 def test():
-   # file_fill('/Users/decrain/Desktop/dataprocess/sougou_before2')
-     #file_fill('.\text2')
+    file_fill('/Users/decrain/Desktop/dataprocess/sougou_before2')
+    
 
     file_read("/Users/decrain/Desktop/dataprocess/sougou_after2")
 
